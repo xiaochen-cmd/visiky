@@ -1,1 +1,42 @@
-{"titleNameMap":{"educationList":"教育背景","workExpList":"工作经历","projectList":"项目经历","skillList":"个人技能","awardList":"更多信息","workList":"个人作品","aboutme":"自我介绍"},"avatar":{"hidden":true},"profile":{"name":"陈江林","email":"1375283285@qq.com","mobile":"15914272511","github":"","zhihu":"","workExpYear":"1年半","workPlace":"广东深圳","positionTitle":"Java开发工程师"},"educationList":[{"edu_time":"2016.09.01,2020.06.30","school":"华南农业大学珠江学院","major":"计算机科学与技术","academic_degree":"本科","dataIndex":0}],"awardList":[{"award_info":"英语 CET4","award_time":"2018","dataIndex":0}],"workExpList":[{"company_name":"稳健医疗用品股份有限公司","department_name":"共享开发部","work_time":"2020.03,至今","work_desc":"1. 负责搭建与维护集团 DevOps CI/CD 的持续集成功能\n2. 负责集团自研低代码平台的权限模块的设计与实现\n3. 负责集团消息中心的运维工作","dataIndex":0}],"skillList":[{"skill_name":"Java基础扎实、熟悉多线程","skill_desc":"","skill_level":90,"dataIndex":0},{"skill_name":"熟悉DevOps、Maven、Git、Linux、","skill_desc":"熟悉GitHub Flow、GitLab Flow工作流、Linux服务器常用命令","skill_level":80,"dataIndex":1},{"skill_name":"熟悉SpringBoot、SpringMVC、MyBatis、Spring Sericity","skill_level":90,"dataIndex":1,"skill_desc":"基于 RBAC 权限模型实现企业权限系统"}],"projectList":[{"project_name":"DevOps 系统","project_role":"Java 后端开发","project_desc":"1.调研市面常见的 CI/CD 工作流,了解GitHub Flow、GitLab Flow 工作流\n2.负责自研 DevOps 系统的 CI/CD 工作流程的表设计与功能实现\n3.DevOps 上线后负责系统的迭代与运维","dataIndex":0},{"project_name":"企业开发门户(低代码)","project_role":"Java后端开发","project_desc":"根据系统选型的 RBAC 权限模型 和 Spring Security 框架并结合系统的功能需求，负责设计数据库表结构，完成权限系统的功能实现包括但不限于账号模块、角色模块与菜单模块\n"},{"project_name":"集团消息中心","project_role":"后端开发兼任运维","project_desc":"负责维护集团线上业务依赖的 Kafka 消息集群、负责搭建集团的 Rocket MQ 集群以及后续的运维工作"}],"workList":[],"aboutme":{"aboutme_desc":"\n    "},"theme":{"color":"#2f5785","tagColor":"#8bc34a"}}
+{
+  "avatar": {
+    "src": "https://avatars.githubusercontent.com/u/52271563?s=400&u=24c6191b5517bd80dfa4f712e223e7a22992ce18&v=4",
+    "hidden": false
+  },
+  "profile": {
+    "name": "陈江林",
+    "email": "1375283285@qq.com",
+    "mobile": "15914272511",
+    "wechat": "15914272511",
+    "zhihu": "https://www.zhihu.com/people/visiky",
+    "workExpYear": "",
+    "positionTitle": "Java开发工程师"
+  },
+  "educationList":[{"edu_time":"2016.09.01,2020.06.30","school":"华南农业大学珠江学院","major":"计算机科学与技术","academic_degree":"本科","dataIndex":0}],
+  "awardList":[{"award_info":"英语 CET4","award_time":"2018","dataIndex":0}],
+  "workExpList":[{"company_name":"稳健医疗用品股份有限公司","department_name":"共享开发部","work_time":"2020.03,至今","work_desc":"1. 负责搭建与维护集团 DevOps CI/CD 的持续集成功能\n2. 负责集团自研低代码平台的权限模块的设计与实现\n3. 负责集团消息中心的运维工作","dataIndex":0}],"skillList":[{"skill_name":"Java基础扎实、熟悉多线程","skill_desc":"","skill_level":90,"dataIndex":0},{"skill_name":"熟悉DevOps、Maven、Git、Linux、","skill_desc":"熟悉GitHub Flow、GitLab Flow工作流、Linux服务器常用命令","skill_level":80,"dataIndex":1},{"skill_name":"熟悉SpringBoot、SpringMVC、MyBatis、Spring Sericity","skill_level":90,"dataIndex":1,"skill_desc":"基于 RBAC 权限模型实现企业权限系统"}],
+  "projectList": [
+    {
+      "project_name": "DevOps 系统",
+      "project_role": "Java 后端开发",
+      "project_time": "2020.07 - 至今",
+      "project_desc": "",
+      "project_content": "1.调研市面常见的 CI/CD 工作流,了解GitHub Flow、GitLab Flow 工作流\n2.负责自研 DevOps 系统的 CI/CD 工作流程的表设计与功能实现\n3.DevOps 上线后负责系统的迭代与运维"
+    },
+    {
+      "project_name": "企业开发门户(低代码)",
+      "project_role": "Java 后端开发",
+      "project_time": "2021.02 - 至今",
+      "project_desc": "。",
+      "project_content": "根据系统选型的 RBAC 权限模型 和 Spring Security 框架并结合系统的功能需求，负责设计数据库表结构，完成权限系统的功能实现包括但不限于账号模块、角色模块与菜单模块\n"
+    },
+    {
+      "project_name": "集团消息中心",
+      "project_role": "后端开发兼任运维",
+      "project_time": "2020.03 - 至今",
+      "project_desc": "",
+      "project_content": "负责维护集团线上业务依赖的 Kafka 消息集群、负责搭建集团的 Rocket MQ 集群以及后续的运维工作。"
+    }
+  ],
+  "workList":[],"aboutme":{"aboutme_desc":"\n    "}
+}
